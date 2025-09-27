@@ -1,0 +1,10 @@
+Ripe Protocol is a decentralized lending platform designed to simplify and enhance the borrowing experience in DeFi. Unlike traditional DeFi protocols that require users to manage multiple loans for different assets or share risk in pooled lending systems, Ripe introduces a novel approach: a single loan backed by an entire portfolio of assets, including cryptocurrencies, tokenized real-world assets (RWAs), and even non-fungible tokens (NFTs). Launched after years of refinement from 2022 to 2024, Ripe aims to make lending more efficient, secure, and inclusive by supporting any asset with verifiable value.
+
+Key features of Ripe Protocol include:Unified Portfolio Lending: Users can collateralize a diverse portfolio—ETH, wrapped Bitcoin (WBTC), stablecoins, tokenized stocks, real estate, or treasury bills—into one loan, reducing complexity and liquidation risks.
+Isolated Risk Model: Unlike shared risk pools (e.g., Aave or Compound), Ripe ensures that a user’s position is independent, so others’ bad debt doesn’t affect them.
+GREEN Yield Mechanism: Ripe’s native yield-bearing asset, GREEN, generates passive income from borrowing and liquidation fees, offering users a “set it and forget it” earning strategy.
+RIPE Token Incentives: The RIPE token powers governance, staking, and rewards, with time-weighted lockups offering up to 3x voting power and protocol benefits.
+Dutch Auction Liquidations: Collateral liquidation occurs via time-based pricing, ensuring fair and efficient distribution of assets at a 5-15% discount.
+
+Ripe’s mission is to prepare DeFi for the projected $16 trillion in tokenized real-world assets by 2030, enabling users to borrow against assets like tokenized real estate, gold, or stocks as easily as they would with ETH. By focusing on portfolio-based lending and asset inclusivity, Ripe addresses the limitations of fragmented liquidity and isolated vaults in traditional DeFi protocols.
+
