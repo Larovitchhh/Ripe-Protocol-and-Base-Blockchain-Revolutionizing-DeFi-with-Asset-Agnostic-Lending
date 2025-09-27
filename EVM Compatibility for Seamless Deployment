@@ -1,0 +1,2 @@
+Ripe’s smart contracts are EVM-compatible, allowing the protocol to deploy seamlessly on Base. This compatibility enables Ripe to leverage Base’s infrastructure without requiring significant modifications to its codebase. Developers building on Ripe can also integrate their dApps with Base’s ecosystem, expanding the reach of Ripe’s lending capabilities to a broader audience.
+
